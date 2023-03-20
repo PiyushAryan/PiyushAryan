@@ -7,9 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/piyusharyanpa" target="blank"><img src="https://img.shields.io/twitter/follow/piyusharyanpa?logo=twitter&style=for-the-badge" alt="piyusharyanpa" /></a> </p>
 
-![](https://github-readme-stats.vercel.app/api?username=PiyushAryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-<br>
-
 - 🔭 I’m currently working on **Sonar: Rock Vs Mine**
 
 - 🌱 I’m currently learning **MERN Stack Development**
@@ -19,6 +16,9 @@
 - 📝Have a great look on [piyusharyan.me](piyusharyan.me)
 
 - 📄 Know about my experiences [https://bit.ly/Piyushresume](https://bit.ly/Piyushresume)
+
+![](https://github-readme-stats.vercel.app/api?username=PiyushAryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
