@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/piyusharyanpa" target="blank"><img src="https://img.shields.io/twitter/follow/piyusharyanpa?logo=twitter&style=for-the-badge" alt="piyusharyanpa" /></a> </p>
 
-- 🔭 I’m currently working on **Sonar: Rock Vs Mine**
+- 🔭 I’m currently working on **Athena - Decentralised Cloud Storage**
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
