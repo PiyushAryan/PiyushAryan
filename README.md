@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/PiyushAryan](github.com/PiyushAryan)
 
-- 📄 Know about my experiences [Resume](https://ggl.link/uERlRmN)
+- 📄 Know about my experiences [Resume](https://ggl.link/wnFlCcm)
 
 ![](https://github-readme-stats.vercel.app/api?username=PiyushAryan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 <br>
